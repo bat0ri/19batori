@@ -1,3 +1,7 @@
+# 19batori
+- Kazan Federal Universiry
+- School 21
+- anime & beer
 #### My GitHub stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=19batori&count_private=true&show_icons=true&theme=tokyonight)
 #### Languages
